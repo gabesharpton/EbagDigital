@@ -1,0 +1,29 @@
+
+#navbar-whole {
+    border: 2px solid black;
+    display: flex;
+    line-height: 50px;
+    position: sticky;
+    top:1px;
+
+}
+#navbar-logo {
+    
+    margin: 2%;
+    height: 75%;
+    width: 60%;
+}
+#contactMe, #aboutMe, #previousWork {
+    margin: 5% 2rem;
+    font-size: 2em;
+    height: 3%;
+    width: 5%;
+    font-family: "Sriracha";
+    border: 1px solid salmon;
+    border-radius: 20%;
+    background-color: blanchedalmond;
+    text-align: center;
+   padding: 3%;
+    /* justify-content: space-between; */
+    text-decoration-line: none;
+}
